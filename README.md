@@ -7,3 +7,15 @@
 4. Whatever you build, please don't call it Spitcast.  For example, if your name is Jimmy and you build an Android app, don't name it Spitcast in the Play Store.  Name it something like "Jimmy's Surf App" and then mention that it's powered by Spitcast in the description or something.
 
 ## Endpoints
+
+https://api.spitcast.com/api/spot
+
+https://api.spitcast.com/api/spot_forecast/1/2023/3/14
+
+https://api.spitcast.com/api/buoy_ndfd/1/2023/3/14
+
+https://api.spitcast.com/api/buoy_ww3/1/2023/3/14
+
+https://api.spitcast.com/api/buoy_tide/1/2023/3/14
+
+https://api.spitcast.com/api/buoy_ndbc/1/2023/3/14
