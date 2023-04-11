@@ -25,24 +25,24 @@ In the response, the `shape` values equate to `0.0 = Poor, 0.5 = Poor-Fair, 1.0 
 
 ### Swell Forecast
 
-This provides regional swell information from NOAA's WAVEWATCH III.  The structure of the request is: `/{county_id}/{year}/{month}/{day}`
+This provides regional swell information from NOAA's [WAVEWATCH III](https://polar.ncep.noaa.gov/waves/wavewatch/).  The structure of the request is: `/{county_id}/{year}/{month}/{day}`
 
 https://api.spitcast.com/api/buoy_ww3/1/2023/3/14
 
 ### Wind Forecast
 
-This provides wind information from NOAA's National Digital Forecast Database.  The structure of the request is: `/{county_id}/{year}/{month}/{day}`
+This provides wind information from NOAA's [National Digital Forecast Database](https://graphical.weather.gov/).  The structure of the request is: `/{county_id}/{year}/{month}/{day}`
 
 https://api.spitcast.com/api/buoy_ndfd/1/2023/3/14
 
 ### Tide Forecast
 
-This provides tide information from NOAA's Tides & Currents.  The structure of the request is: `/{county_id}/{year}/{month}/{day}`
+This provides tide information from NOAA's [Tides & Currents](https://tidesandcurrents.noaa.gov/).  The structure of the request is: `/{county_id}/{year}/{month}/{day}`
 
 https://api.spitcast.com/api/buoy_tide/1/2023/3/14
 
 ### Current Water Temperature
 
-This provides wind information from NOAA's National Data Buoy Center.  The structure of the request is: `/{county_id}/{year}/{month}/{day}`
+This provides wind information from NOAA's [National Data Buoy Center](https://www.ndbc.noaa.gov/).  The structure of the request is: `/{county_id}/{year}/{month}/{day}`
 
 https://api.spitcast.com/api/buoy_ndbc/1/2023/3/14
